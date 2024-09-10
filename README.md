@@ -6,7 +6,7 @@ I'm a self-taught passionate Full-stack developer.
 
 **About me**
 
-- 📈 Build MealMate and GreenThumb web app.
+- 📈 Built MealMate and GreenThumb web app.
 
 - ❤️ I love building website using React, Node.js, Python, HTML, CSS, and JavaScript.
 
