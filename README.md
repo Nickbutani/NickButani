@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate Full-stack developer.
+I'm a passionate Full-stack developer.
 
 **About me**
 
